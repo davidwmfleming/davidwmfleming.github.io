@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  davidwmfleming
 
 # Build settings
-# theme: cayman
+# theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
