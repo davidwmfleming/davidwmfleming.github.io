@@ -1,9 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to My Site"
 date:   2026-10-11 08:38:51 -0300
-categories: jekyll update
+categories: updates
 ---
+
+Thank you for visiting my website - currently a work in progress. I am a debut fantasy author from Cornwall, Prince Edward Island. I'm currently writing a book in the fantasy magic genre. Visit my [Writing][writing] page to find a brief summary and any updates on that work. 
+
+
+[writing]: https://davidwmfleming.com/writing/
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
