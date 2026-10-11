@@ -22,7 +22,7 @@ title: David Fleming, Author
 email: dwmfleming@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
  An author website.
-#baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://davidwmfleming.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  davidwmfleming
